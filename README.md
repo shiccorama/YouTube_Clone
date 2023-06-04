@@ -26,24 +26,24 @@ Installation
 Clone the repository:
 
 
-// Copy code
+'''Copy code
 git clone https://github.com/your-username/ReactTube.git
-// Navigate to the project directory:
+'''Navigate to the project directory:
 
 
-// Copy code
+'''Copy code
 cd ReactTube
-// Install the dependencies:
+'''Install the dependencies:
 
 
-// Copy code
+'''Copy code
 npm install
-// Start the development server:
+'''Start the development server:
 
 
-// Copy code
+'''Copy code
 npm start
-// Open your browser and visit http://localhost:3000 to view the app.
+'''Open your browser and visit http://localhost:3000 to view the app.
 
 Contributing
 Contributions are always welcome! If you have any ideas, suggestions, or bug fixes, please open an issue or submit a pull request.
